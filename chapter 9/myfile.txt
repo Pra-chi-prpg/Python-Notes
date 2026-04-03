@@ -1,0 +1,5 @@
+Hello ! welcome to python programming 
+ this is file handling  this is the append file function  
+ this is the append file function  
+ this is the append file function  
+Hello  you are WELCOME!
